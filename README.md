@@ -20,7 +20,7 @@
 # Results: Deep Learning Models
 <img src='dl_models.PNG'>
 
-# Results: Best Keras Deep Learning Model Classification Report and Confusion Matrix
+# Results: Best Keras Deep Learning Model (Model 4) Classification Report and Confusion Matrix
 - model4 = Sequential()
 - model4.add(Dense(100, activation="relu", input_dim=8))
 - model4.add(Dropout(0.5))
